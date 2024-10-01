@@ -1,2 +1,2 @@
-i have to made simple but interesting increment decrement counter project 
+i had made simple but interesting increment decrement counter project 
 in this i had use #HTML #TailwindCss # React. js.... 
